@@ -87,9 +87,6 @@ Model yapısı:
 - Nüfus yoğunluğu arttıkça yayılım hızı yükselmektedir.
 - Güçlü sağlık altyapısı ölüm oranlarını azaltmada etkilidir.
 
----
-## Not
-Power BI (.pbix) dosyaları ve bazı veri setleri boyut sınırlamaları nedeniyle GitHub’a yüklenememiştir. Ancak analiz çıktıları görseller ve açıklamalar üzerinden incelenebilir.
 
 ---
 
