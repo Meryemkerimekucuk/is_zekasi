@@ -88,8 +88,12 @@ Model yapısı:
 - Güçlü sağlık altyapısı ölüm oranlarını azaltmada etkilidir.
 
 ---
+## Not
+Power BI (.pbix) dosyaları ve bazı veri setleri boyut sınırlamaları nedeniyle GitHub’a yüklenememiştir. Ancak analiz çıktıları görseller ve açıklamalar üzerinden incelenebilir.
 
-## 📚 Kaynakça
+---
+
+## Kaynakça
 - Demircioğlu & Eşiyok (2020) – COVID-19 Kümeleme Analizi Çalışması
 - Our World in Data – COVID-19 Dataset
 - İş Zekâsı literatürü
